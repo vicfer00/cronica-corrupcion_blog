@@ -63,6 +63,6 @@ Mañana... veremos si hay país para escribir.
 
 
 ¿Quieres más?  
-Explora el [Archivo](/archive), conoce al [Autor](/about), o si estás buscando algo específico, visita las [Categorías](/categories).
+Explora el [Archivo](/archive), conoce al [Autor](/about/), o si estás buscando algo específico, visita las [Categorías](/categories).
 
 <p class="signature">— Criollo Desubicado</p>
