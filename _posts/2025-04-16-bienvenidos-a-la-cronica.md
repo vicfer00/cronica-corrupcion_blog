@@ -1,8 +1,16 @@
 ---
-layout: post
-title:  "Bienvenidos a la Crónica"
-date:   2025-04-16 20:00:00 -0500
-categories: apertura
+layout: letter
+title: "Perulandia"
+date: 2025-04-16
+author: Criollo Desubicado
 ---
 
-En este espacio vas a encontrar análisis, sátira y uno que otro chismecito electoral rumbo al 2026.
+Estimado lector,
+
+Nos acercamos a las elecciones de 2026 y, como es costumbre, la política nacional nos da más giros que una combi sin frenos...
+
+Aquí no encontrarás discursos vacíos, sino verdades disfrazadas de sátira, y sátira que dice más que muchos noticieros.
+
+Atentamente,
+
+Tu cronista favorito de esta república en perpetuo suspenso.
