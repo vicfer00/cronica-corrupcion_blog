@@ -3,16 +3,30 @@ layout: letter
 title: "Crónica de una Corrupción Anunciada"
 ---
 
-Estimados compatriotas,  
+> *“Perú es el país de las oportunidades perdidas.”*  
+> — Julio Ramón Ribeyro
 
-Les escribe un criollo desubicado. Nací en la tierra del ceviche y la contradicción. Me fui buscando estabilidad, pero nunca dejé de mirar — con rabia, risa, y resignación — lo que ocurre allá, en esa república cada vez más creativa en su manera de colapsar.
+Bienvenido a esta bitácora del absurdo.  
+Aquí comienza tu recorrido por **Crónica de una Corrupción Anunciada**, un espacio donde la sátira se vuelve instrumento de memoria, rabia y (a veces) risa. En este blog tratare de recordarle al peruano desmemoriado, a traves de ironias, la historia que se olvida cada 5 años
 
-Desde este rincón del exilio emocional, donde el WiFi llega más estable que el sistema democrático, les escribo cartas abiertas, gritos disfrazados de sátira, y diagnósticos no pedidos de una nación que se cura con memes, pero sangra con votos.
+Este no es un blog objetivo.  
+Es una colección de cartas abiertas escritas desde el exilio fisico y emocional, firmadas por un testigo harto pero no indiferente.  
+No esperes imparcialidad. Espera honestidad.  
+No esperes análisis técnico. Espera bisturí emocional.  
+Aquí se denuncia con humor, se recuerda con sarcasmo y se escribe con el hígado.
 
-Aquí no hay imparcialidad ni mesura: solo la honestidad incómoda de quien ya no puede ver y callar.  
-Aquí hay crónica. Aquí hay rabia. Aquí hay risa.
+---
 
-Bienvenidos a esta carta pública y perpetua.  
-A esta bitácora del absurdo.
+## 🗞️ Últimas Cartas
+
+{% for post in site.posts limit:5 %}
+- 📝 **[{{ post.title }}]({{ post.url }})** <br>
+  <span style="color:#777;">{{ post.date | date: "%d/%m/%Y" }}</span>
+{% endfor %}
+
+---
+
+¿Quieres más?  
+Explora el [Archivo](/archive), conoce al [Autor](/about), o si estás buscando algo específico, visita las [Categorías](/categories).
 
 <p class="signature">— Criollo Desubicado</p>
