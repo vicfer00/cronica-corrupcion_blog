@@ -1,9 +1,9 @@
-<img src="/assets/images/indexbanner.png" alt="Crónica de una Corrupción Anunciada Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 2rem;">
-
 ---
 layout: letter
 title: "Crónica de una Corrupción Anunciada"
 ---
+
+<img src="/assets/images/indexbanner.png" alt="Crónica de una Corrupción Anunciada Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 2rem;">
 
 > *“Perú es el país de las oportunidades perdidas.”*  
 > — Julio Ramón Ribeyro
