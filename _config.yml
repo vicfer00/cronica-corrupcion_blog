@@ -1,0 +1,8 @@
+title: Crónica de una Corrupción Anunciada
+description: Un blog satírico sobre la política peruana rumbo al 2026
+theme: minima
+author: Victor Gutierrez
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
