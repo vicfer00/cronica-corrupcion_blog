@@ -1,3 +1,5 @@
+<img src="/assets/images/indexbanner.jpg" alt="Crónica de una Corrupción Anunciada Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 2rem;">
+
 ---
 layout: letter
 title: "Crónica de una Corrupción Anunciada"
