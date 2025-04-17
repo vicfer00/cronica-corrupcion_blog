@@ -3,6 +3,7 @@ description: Un blog satírico sobre la política peruana rumbo al 2026
 theme: minima
 author: Victor Gutierrez
 markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
