@@ -35,5 +35,5 @@ Si te hace pensar... sospecha de ti mismo.
 > — Mario Vargas Llosa
  *(palabras que duelen más cuanto más uno lo lee en voz alta en plena campaña electoral.)*
 
-<p class="signature">— Criollo Desubicado</p>
+<!-- <p class="signature">— Criollo Desubicado</p> -->
 

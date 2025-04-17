@@ -2,7 +2,7 @@
 layout: letter
 title: "Crónica de una Corrupción Anunciada"
 ---
-<img src="/assets/images/indexBanner.png" alt="Crónica de una Corrupción Anunciada Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 2rem;">
+<img src="{{ site.baseurl }}/assets/images/indexBanner.png" alt="Crónica de una Corrupción Anunciada Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 2rem;">
 
 > *“Perú es el país de las oportunidades perdidas.”*  
 > — Julio Ramón Ribeyro
@@ -63,6 +63,6 @@ Mañana... veremos si hay país para escribir.
 
 
 ¿Quieres más?  
-Explora el [Archivo](/archive/), conoce al [Autor](/about/), o si estás buscando algo específico, visita las [Categorías](/categories/).
+Explora el [Archivo]({{ site.baseurl }}/archive/), conoce al [Autor]({{ site.baseurl }}/about/), o si estás buscando algo específico, visita las [Categorías]({{ site.baseurl }}/categories/).
 
-<p class="signature">— Criollo Desubicado</p>
+<!-- <p class="signature">— Criollo Desubicado</p> -->

@@ -4,6 +4,8 @@ theme: minima
 author: Victor Gutierrez
 markdown: kramdown
 permalink: pretty
+baseurl: "/cronica-corrupcion_blog"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

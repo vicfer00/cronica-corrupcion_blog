@@ -51,10 +51,10 @@
 
 <body>
   <nav style="text-align: center; margin-bottom: 2rem; font-size: 1.1rem;">
-    <a href="/" style="margin: 0 1.5rem;">Inicio</a>
-    <a href="/about/" style="margin: 0 1.5rem;">Sobre el Autor</a>
-    <a href="/archive/" style="margin: 0 1.5rem;">Archivo</a>
-    <a href="/categories/" style="margin: 0 1.5rem;">Categorías</a>
+    <a href="{{ site.baseurl }}/" style="margin: 0 1.5rem;">Inicio</a>
+    <a href="{{ site.baseurl }}/about/" style="margin: 0 1.5rem;">Sobre el Autor</a>
+    <a href="{{ site.baseurl }}/archive/" style="margin: 0 1.5rem;">Archivo</a>
+    <a href="{{ site.baseurl }}/categories/" style="margin: 0 1.5rem;">Categorías</a>
   </nav>
   <h1>{{ page.title }}</h1>
   <!-- <p class="date-line">Desde el Eco del Inkarri, {{ page.date | date: "%-d de %B de %Y" }}</p> -->
@@ -66,9 +66,8 @@
   <!-- {% if page.author %}
   <p class="signature">— {{ page.author }}</p>
   {% endif %} -->
-  <!-- <div class="signature">
-    <img src="/assets/images/criollo-firma.jpg" alt="Firma de Criollo Desubicado" style="max-width: 300px;">
-  </div>   -->
+  <img src="{{ site.baseurl }}/assets/images/criollo_firma.jpg" alt="Firma de Criollo Desubicado" style="max-width: 280px; display: block; margin: 2rem auto 0;">
+
 
   {% if page.categories %}
   <p style="font-size: 0.9rem; color: #555;">
